@@ -1,0 +1,7 @@
+coqui-tts
+gradio
+transformers
+accelerate
+sentencepiece
+soundfile
+librosa
